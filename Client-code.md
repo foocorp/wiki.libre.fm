@@ -2,11 +2,13 @@ Old list of client codes.
 
 Don't update this, update [[Clients]] instead.
 
+<!-- Keep URLs reasonable short, link to them if needed) --> 
+
 |code|name                       |url                                                                       |free/open source|
 |----|---------------------------|--------------------------------------------------------------------------|----|
 |amk |Amarok 1.4.x plugin        |http://amarok.kde.org/                                                    |Y   |
 |amp |Aimp2                      |http://www.aimp.ru/                                                       |N   |
-|amy |Anomaly                    |https://chrome.google.com/webstore/detail/ajbkmdgmhbjjhephmgbpgialfbnjbmkb|Y   |
+|amy |Anomaly                    |[Anomlay website](https://github.com/foocorp/hacienda/wiki/Clients)|Y   |
 |ark |Amarok                     |http://amarok.kde.org/                                                    |Y   |
 |ass |Last.fm player             |http://www.last.fm/download                                               |Y   |
 |atu |aTunes                     |http://www.atunes.org/                                                    |Y   |
