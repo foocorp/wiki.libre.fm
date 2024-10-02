@@ -1,4 +1,4 @@
-Please try and keep this list in alphabetical order.
+**Please try and keep this list in alphabetical order.**
 
 For each client we'd like to know:
 
