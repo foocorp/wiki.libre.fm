@@ -9,6 +9,8 @@ For each client we'd like to know:
 * If it requires a username/password to login
 * Optional: [[Client code]]
 
+<!-- Keep URLs reasonable short, link to them if needed) --> 
+
 | Client Name | Website | Developer Username | Libre.fm supported? | Username/Password? | Client Code | 
 | ------------- | ------------- | ----- | ---- | --- | ---- | 
 | Web Scrobbler | https://web-scrobbler.com | N/A | Yes | No | N/A |
