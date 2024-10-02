@@ -2,7 +2,7 @@ Old list of client codes.
 
 Don't update this, update [[Clients]] instead.
 
-<!-- Keep URLs reasonable short, link to them if needed) --> 
+<!-- Keep URLs reasonably short, link to them if needed) --> 
 
 |code|name                       |url                                                                       |free/open source|
 |----|---------------------------|--------------------------------------------------------------------------|----|
