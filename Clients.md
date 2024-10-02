@@ -11,11 +11,11 @@ For each client we'd like to know:
   * If the app has you enter your username/password directly, please mark this Y
 * Optional: It it only works over HTTP (not HTTPS)
 * Optional: [[Client code]]
-* Optional: Make a page about the client in the Clients/ sub space (see DeaDBeeF entry)
+* Optional: Make a page about the client (see DeaDBeeF entry)
 
 <!-- Keep URLs reasonable short, link to them if needed) --> 
 
 | Client Name | Website | Developer Username | Libre.fm supported? | Username/Password? | Client Code | 
 | ------------| ------- | ------------------ | ------------------- | ------------------ | ----------- | 
-| [DeaDBeeF](Clients/DeaDBeeF) | https://deadbeef.sourceforge.io | N/A | Yes | Yes | ddb | 
+| [DeaDBeeF](DeaDBeeF) | https://deadbeef.sourceforge.io | N/A | Yes | Yes | ddb | 
 | Web Scrobbler | https://web-scrobbler.com | N/A | Yes | No | N/A |
