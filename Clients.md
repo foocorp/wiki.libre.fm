@@ -2,7 +2,7 @@
 |-----------------------------------|----------------------------------------------------|---------------------|
 | Amarok 1.4.x plugin               | [amarok.kde.org](http://amarok.kde.org/)            | Y                   |
 | Aimp2                            | [aimp.ru](http://www.aimp.ru/)                      | N                   |
-| Anomaly                          | Anomaly website                                    | Y                   |
+| Anomaly                          | [Anomaly website](https://github.com/foocorp/hacienda/wiki/Clients)                                    | Y    |  
 | Amarok                           | [amarok.kde.org](http://amarok.kde.org/)            | Y                   |
 | Last.fm player                   | [last.fm/download](http://www.last.fm/download)     | Y                   |
 | aTunes                           | [atunes.org](http://www.atunes.org/)                | Y                   |
