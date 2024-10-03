@@ -59,6 +59,7 @@
 | scmpc                            | [scmpc](http://ngls.zakx.de/scmpc/)                 | Y                   |
 | Spotify Mobile                   | [spotify.com/mobile/overview](http://www.spotify.com/uk/mobile/overview/) | N |
 | Spotify                          | [spotify.com](http://spotify.com/)                  | N                   |
+| Strawberry Music Player          | [strawberrymusicplayer.org](https://www.strawberrymusicplayer.org/) | Y           |
 | MPD (scrobd)                     | [scrobd](http://codingteam.net/project/scrobd)      | Y                   |
 | SqueezeScrobbler 7               | [slimdevices.com](http://www.slimdevices.com/pi_features.html) | Y           |
 | Subsonic                         | [subsonic.org](http://www.subsonic.org)             | Y                   |
