@@ -9,13 +9,14 @@ For each client we'd like to know:
 * If it requires a username/password to login
   * Some clients like Web Scrobbler will redirect you to Libre.fm to login, which would be a No in the column for this. 
   * If the app has you enter your username/password directly, please mark this Y
-* Optional: It it only works over HTTP (not HTTPS)
+* Optional: If it only works over HTTP (not HTTPS)
 * Optional: [[Client code]]
 * Optional: Make a page about the client (see DeaDBeeF entry)
 
 <!-- Keep URLs reasonable short, link to them if needed) --> 
 
-| Client Name | Website | Developer Username | Libre.fm supported? | Username/Password? | Client Code | 
-| ------------| ------- | ------------------ | ------------------- | ------------------ | ----------- | 
-| [DeaDBeeF](DeaDBeeF) | https://deadbeef.sourceforge.io | N/A | Yes | Yes | ddb | 
-| Web Scrobbler | https://web-scrobbler.com | N/A | Yes | No | N/A |
+| Client Name | Website | Developer Username | Libre.fm supported? | Username/Password? | HTTP-Only? | Client Code | 
+| ------------| ------- | ------------------ | ------------------- | ------------------ | ----------- |  ----------- | 
+| [DeaDBeeF](DeaDBeeF) | https://deadbeef.sourceforge.io | N/A | Yes | Yes | ? | ddb | 
+| Web Scrobbler | https://web-scrobbler.com | N/A | Yes | No | ? | N/A |
+| mpdscribble (mpd) | https://github.com/MusicPlayerDaemon/mpdscribble | @MaxKellermann | Yes | Yes | No | mdc |
