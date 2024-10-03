@@ -19,5 +19,6 @@ For each client, we'd like to know:
 | ------------| ------- | ------------------ | ------------------- | ------------------ | ----------- |  ----------- | 
 | [DeaDBeeF](DeaDBeeF) | https://deadbeef.sourceforge.io | N/A | Yes | Yes | ? | ddb | 
 | mpdscribble (mpd) | https://github.com/MusicPlayerDaemon/mpdscribble | @MaxKellermann | Yes | Yes | No | mdc |
+| multi-scrobbler | https://github.com/FoxxMD/multi-scrobbler | @FoxxMD | No | No | ? | N/A |
 | Pano Scrobbler | https://github.com/kawaiiDango/pano-scrobbler | @kawaiiDango | Yes | No | Yes | pns |
 | Web Scrobbler | https://web-scrobbler.com | N/A | Yes | No | ? | N/A |
