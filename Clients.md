@@ -63,6 +63,7 @@
 | SqueezeScrobbler 7               | [slimdevices.com](http://www.slimdevices.com/pi_features.html) | Y           |
 | Subsonic                         | [subsonic.org](http://www.subsonic.org)             | Y                   |
 | scrobble for iPhone              | [scrobble](http://www.nodomain.org/scrobble/)       | Y                   |
+| Strawberry Player                | [Strawberry Player](https://www.strawberrymusicplayer.org/)       | Y                   |
 | Clementine Player                | [Clementine Player](http://code.google.com/p/clementine-player/) | Y       |
 | Trout                            | [Trout](http://skwire.dcmembers.com/wb/pages/software/trout.php) | N         |
 | Ecoute                           | [Ecoute](http://ecouteapp.com/)                     | N                   |
