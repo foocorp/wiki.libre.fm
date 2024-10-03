@@ -1,6 +1,6 @@
 **Please try and keep this list in alphabetical order.**
 
-For each client we'd like to know:
+For each client, we'd like to know:
 
 * Client name
 * Client website if it has one
@@ -18,5 +18,6 @@ For each client we'd like to know:
 | Client Name | Website | Developer Username | Libre.fm supported? | Username/Password? | HTTP-Only? | Client Code | 
 | ------------| ------- | ------------------ | ------------------- | ------------------ | ----------- |  ----------- | 
 | [DeaDBeeF](DeaDBeeF) | https://deadbeef.sourceforge.io | N/A | Yes | Yes | ? | ddb | 
-| Web Scrobbler | https://web-scrobbler.com | N/A | Yes | No | ? | N/A |
 | mpdscribble (mpd) | https://github.com/MusicPlayerDaemon/mpdscribble | @MaxKellermann | Yes | Yes | No | mdc |
+| Pano Scrobbler | https://github.com/kawaiiDango/pano-scrobbler | @kawaiiDango | Yes | No | Yes | pns |
+| Web Scrobbler | https://web-scrobbler.com | N/A | Yes | No | ? | N/A |
