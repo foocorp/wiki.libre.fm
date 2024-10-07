@@ -24,6 +24,7 @@ For each client, we'd like to know:
 | Client Name | Website | Developer Username | Libre.fm supported? | Username/Password? | HTTP-Only? | Client Code | 
 | ------------| ------- | ------------------ | ------------------- | ------------------ | ----------- |  ----------- | 
 | [DeaDBeeF](DeaDBeeF) | https://deadbeef.sourceforge.io | N/A | Yes | Yes | ? | ddb | 
+| foobar2000 | https://foobar2000.org | N/A | Yes | Yes | ? | N/A |
 | mpdscribble (mpd) | https://github.com/MusicPlayerDaemon/mpdscribble | @MaxKellermann | Yes | Yes | No | mdc |
 | multi-scrobbler | https://github.com/FoxxMD/multi-scrobbler | @FoxxMD | No | No | ? | N/A |
 | Pano Scrobbler | https://github.com/kawaiiDango/pano-scrobbler | @kawaiiDango | Yes | No | Yes | pns |
