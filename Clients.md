@@ -21,7 +21,7 @@ For each client, we'd like to know:
 
 <!-- Keep URLs reasonable short, link to them if needed) --> 
 
-| Client Name                                                           | Client Code | Developer Username                | Username/Password? | HTTP-Only? |
+| Client Name                                                           | Client Code | Developer Username <!-- on libre.fm -->               | Username/Password? | HTTP-Only? |
 | --------------------------------------------------------------------- | ----------- | --------------------------------- | ------------------ | ---------- |
 | [[Amarok 1.4.x plugin]] | Yes                | | |  No         |
 | [[Aimp2]]                                          | amp         | N/A                               | No                 | No         |
