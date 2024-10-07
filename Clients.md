@@ -21,11 +21,24 @@ For each client, we'd like to know:
 
 <!-- Keep URLs reasonable short, link to them if needed) --> 
 
-| Client Name | Website | Developer Username | Libre.fm supported? | Username/Password? | HTTP-Only? | Client Code | 
-| ------------| ------- | ------------------ | ------------------- | ------------------ | ----------- |  ----------- | 
-| [DeaDBeeF](DeaDBeeF) | https://deadbeef.sourceforge.io | N/A | Yes | Yes | ? | ddb | 
-| foobar2000 | https://foobar2000.org | N/A | Yes | Yes | ? | foo |
-| mpdscribble (mpd) | https://github.com/MusicPlayerDaemon/mpdscribble | @MaxKellermann | Yes | Yes | No | mdc |
-| multi-scrobbler | https://github.com/FoxxMD/multi-scrobbler | @FoxxMD | No | No | ? | N/A |
-| Pano Scrobbler | https://github.com/kawaiiDango/pano-scrobbler | @kawaiiDango | Yes | No | Yes | pns |
-| Web Scrobbler | https://web-scrobbler.com | N/A | Yes | No | ? | N/A |
+| Client Name | Website | Developer Username | Libre.fm supported? | Username/Password? | HTTP-Only? | Client Code |
+| ------------| ------- | ------------------ | ------------------- | ------------------ | ----------- |  ----------- |
+| [Amarok 1.4.x plugin](http://amarok.kde.org/) | http://amarok.kde.org | @esdaniel (based on AmarokNotify) | Yes | Yes | No | amk |
+| [Aimp2](http://www.aimp.ru/) | http://www.aimp.ru/ | N/A | No | No | No | amp |
+| [Anomaly](https://github.com/foocorp/hacienda/wiki/Clients) | https://github.com/foocorp | N/A | Yes | Yes | No | amy |
+| [Amarok 2.x](http://amarok.kde.org/) | http://amarok.kde.org | N/A | Yes | Yes | No | ark |
+| [Last.fm player](http://www.last.fm/download) | http://www.last.fm/download | N/A | No | Yes | No | ass |
+| [aTunes](http://www.atunes.org/) | http://www.atunes.org/ | @rafelico | Yes | Yes | No | atu |
+| [Audacious](http://audacious-media-player.org/) | http://audacious-media-player.org/ | @audacious-dev | Yes | Yes | No | aud |
+| [billy](http://www.sheepfriends.com/?page=billy) | http://www.sheepfriends.com | N/A | No | No | No | bil |
+| [Bluemindo](http://bluemindo.codingteam.net/) | http://bluemindo.codingteam.net/ | @deimosfr | Yes | Yes | No | blu |
+| [Banshee](http://banshee-project.org/) | http://banshee-project.org/ | @banshee-dev | Yes | Yes | No | bsh |
+| [Bowtie](http://www.bowtieapp.com/) | http://www.bowtieapp.com/ | N/A | No | No | No | bwt |
+| [cmus](http://n.ethz.ch/%7edflatz/cmuscrobbler/) | http://n.ethz.ch/~dflatz/cmuscrobbler/ | @dflatz | Yes | Yes | No | cmu |
+| [cplay scrobbler](http://sebi.tla.ro/cplay_scrobbler) | http://sebi.tla.ro/cplay_scrobbler | @sebitla | Yes | Yes | No | cpl |
+| [Cuberok](http://code.google.com/p/cuberok/) | http://code.google.com/p/cuberok/ | N/A | Yes | Yes | No | cub |
+| [DeaDBeeF](https://deadbeef.sourceforge.io) | https://deadbeef.sourceforge.io | N/A | Yes | Yes | No | ddb |
+| [mpdscribble (mpd)](https://github.com/MusicPlayerDaemon/mpdscribble) | https://github.com/MusicPlayerDaemon/mpdscribble | @MaxKellermann | Yes | Yes | No | mdc |
+| [multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) | https://github.com/FoxxMD/multi-scrobbler | @FoxxMD | No | No | No | N/A |
+| [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) | https://github.com/kawaiiDango/pano-scrobbler | @kawaiiDango | Yes | No | Yes | pns |
+| [Web Scrobbler](https://web-scrobbler.com) | https://web-scrobbler.com | @web-scrobbler-dev | Yes | No | Yes | N/A |
