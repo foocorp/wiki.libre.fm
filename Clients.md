@@ -39,7 +39,7 @@ For each client, we'd like to know:
 | [[DeaDBeeF]]                           | ddb         | N/A                               | Yes                | No         |
 | [[Foobar2000]]                                  | foo         | N/A                               | Yes                | No         |
 | [[Last.fm player]]                         | ass         | N/A                               | Yes                | No         |
-| [[mpdscribble  | mdc         | @MaxKellermann                    | Yes                | No         |
+| [[mpdscribble]]  | mdc         | @MaxKellermann                    | Yes                | No         |
 | [[multi-scrobbler]]          | N/A         | @FoxxMD                           | No                 | No         |
 | [[Pano Scrobbler]]       | pns         | @kawaiiDango                      | No                 | Yes        |
 | [[Web Scrobbler]]                            | N/A         | @web-scrobbler-dev                | No                 | Yes        |
