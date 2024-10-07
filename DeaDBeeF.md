@@ -5,4 +5,5 @@ Works nicely with Libre.fm, also very good for [[testing short tracks]].
 ### Who's using it?
 
 * mattl
+* antsyboi
 * Add your username/URL here
