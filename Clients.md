@@ -38,6 +38,7 @@ For each client, we'd like to know:
 | [cplay scrobbler](http://sebi.tla.ro/cplay_scrobbler) | http://sebi.tla.ro/cplay_scrobbler | @sebitla | Yes | Yes | No | cpl |
 | [Cuberok](http://code.google.com/p/cuberok/) | http://code.google.com/p/cuberok/ | N/A | Yes | Yes | No | cub |
 | [DeaDBeeF](https://deadbeef.sourceforge.io) | https://deadbeef.sourceforge.io | N/A | Yes | Yes | No | ddb |
+| [Foobar2000](https://foobar2000.org) | https://foobar2000.org | N/A | Yes | Yes | No | foo |
 | [mpdscribble (mpd)](https://github.com/MusicPlayerDaemon/mpdscribble) | https://github.com/MusicPlayerDaemon/mpdscribble | @MaxKellermann | Yes | Yes | No | mdc |
 | [multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) | https://github.com/FoxxMD/multi-scrobbler | @FoxxMD | No | No | No | N/A |
 | [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) | https://github.com/kawaiiDango/pano-scrobbler | @kawaiiDango | Yes | No | Yes | pns |
