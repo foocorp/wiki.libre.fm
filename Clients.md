@@ -42,4 +42,5 @@ For each client, we'd like to know:
 | [[mpdscribble]]  | mdc         |                      | Yes                | No         |
 | [[multi-scrobbler]]          | N/A         | @FoxxMD                           | No                 | No         |
 | [[Pano Scrobbler]]       | pns         |                       | No                 | Yes        |
+| [[Simple Scrobbler]]                  | sls         | N/A                               | Yes        | No        |
 | [[Web Scrobbler]]                            | N/A         |                 | No                 | No        |
