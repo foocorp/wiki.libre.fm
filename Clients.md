@@ -27,19 +27,19 @@ For each client, we'd like to know:
 | [[Aimp2]]                                          | amp         | N/A                               | No                 | No         |
 | [[Anomaly]]           | amy         | N/A                               | Yes                | No         |
 | [[Amarok 2.x]]                                  | ark         | N/A                               | Yes                | No         |
-| [[aTunes]]                                      | atu         | @rafelico                         | Yes                | No         |
-| [[Audacious]]                       | aud         | @audacious-dev                    | Yes                | No         |
+| [[aTunes]]                                      | atu         |                           | Yes                | No         |
+| [[Audacious]]                       | aud         |                      | Yes                | No         |
 | [[billy]]                      | bil         | N/A                               | No                 | No         |
-| [[Bluemindo]]                         | blu         | @deimosfr                         | Yes                | No         |
-| [[Banshee]]                                | bsh         | @banshee-dev                      | Yes                | No         |
+| [[Bluemindo]]                         | blu         |                           | Yes                | No         |
+| [[Banshee]]                                | bsh         |                        | Yes                | No         |
 | [[Bowtie]]                                   | bwt         | N/A                               | No                 | No         |
-| [[cmus]]                      | cmu         | @dflatz                           | Yes                | No         |
-| [[cplay scrobbler]]                 | cpl         | @sebitla                          | Yes                | No         |
+| [[cmus]]                      | cmu         |                            | Yes                | No         |
+| [[cplay scrobbler]]                 | cpl         |                            | Yes                | No         |
 | [[Cuberok]]                          | cub         | N/A                               | Yes                | No         |
 | [[DeaDBeeF]]                           | ddb         | N/A                               | Yes                | No         |
 | [[Foobar2000]]                                  | foo         | N/A                               | Yes                | No         |
 | [[Last.fm player]]                         | ass         | N/A                               | Yes                | No         |
-| [[mpdscribble]]  | mdc         | @MaxKellermann                    | Yes                | No         |
+| [[mpdscribble]]  | mdc         |                      | Yes                | No         |
 | [[multi-scrobbler]]          | N/A         | @FoxxMD                           | No                 | No         |
-| [[Pano Scrobbler]]       | pns         | @kawaiiDango                      | No                 | Yes        |
-| [[Web Scrobbler]]                            | N/A         | @web-scrobbler-dev                | No                 | Yes        |
+| [[Pano Scrobbler]]       | pns         |                       | No                 | Yes        |
+| [[Web Scrobbler]]                            | N/A         |                 | No                 | Yes        |
