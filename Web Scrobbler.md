@@ -6,3 +6,7 @@ It is currently recommended to new users of Libre.fm because of its web browser 
 
 * https://web-scrobbler.com
 
+### Who's using it?
+
+* mattl
+* Add your username/URL here
