@@ -1,7 +1,11 @@
-One line to describe this project.
+Pano Scrobbler is a free Android app that supports Android smartphones, TVs, tablets and desktops.
 
-* A link to the website
+* Website: https://github.com/kawaiiDango/pano-scrobbler
 
 ### Who uses this?
 
-* Add yourself to the list
+* [inan-hira][0] ([hocu][1] on libre.fm)
+* Add your username/URL here
+
+[0]: https://github.com/inan-hira
+[1]: https://libre.fm/user/hocu
