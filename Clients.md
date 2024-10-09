@@ -21,25 +21,25 @@ For each client, we'd like to know:
 
 <!-- Keep URLs reasonable short, link to them if needed) --> 
 
-| Client Name                                                           | Client Code | Developer Username <!-- on libre.fm -->               | Username/Password? | HTTP-Only? |
-| --------------------------------------------------------------------- | ----------- | --------------------------------- | ------------------ | ---------- |
-| [[Amarok 1.4.x plugin]] | Yes                | | |  No         |
-| [[Aimp2]]                                          | amp         | N/A                               | No                 | No         |
-| [[Anomaly]]           | amy         | N/A                               | Yes                | No         |
-| [[Amarok 2.x]]                                  | ark         | N/A                               | Yes                | No         |
-| [[aTunes]]                                      | atu         |                           | Yes                | No         |
-| [[Audacious]]                       | aud         |                      | Yes                | No         |
-| [[billy]]                      | bil         | N/A                               | No                 | No         |
-| [[Bluemindo]]                         | blu         |                           | Yes                | No         |
-| [[Banshee]]                                | bsh         |                        | Yes                | No         |
-| [[Bowtie]]                                   | bwt         | N/A                               | No                 | No         |
-| [[cmus]]                      | cmu         |                            | Yes                | No         |
-| [[cplay scrobbler]]                 | cpl         |                            | Yes                | No         |
-| [[Cuberok]]                          | cub         | N/A                               | Yes                | No         |
-| [[DeaDBeeF]]                           | ddb         | N/A                               | Yes                | No         |
-| [[Foobar2000]]                                  | foo         | N/A                               | Yes                | No         |
-| [[Last.fm player]]                         | ass         | N/A                               | Yes                | No         |
-| [[mpdscribble]]  | mdc         |                      | Yes                | No         |
-| [[multi-scrobbler]]          | N/A         | @FoxxMD                           | No                 | No         |
-| [[Pano Scrobbler]]       | pns         |                       | No                 | Yes        |
-| [[Web Scrobbler]]                            | N/A         |                 | No                 | No        |
+| Client Name               | Client Code | Developer Username <!-- on libre.fm --> | Username/Password? | HTTP-Only? |
+|---------------------------|-------------|-----------------------------------------|--------------------|------------|
+| [[Aimp2]]                 | amp         | N/A                                     | No                 | No         |
+| [[Amarok 1.4.x plugin]]   | Yes         |                                         |                    | No         |
+| [[Amarok 2.x]]            | ark         | N/A                                     | Yes                | No         |
+| [[Anomaly]]               | amy         | N/A                                     | Yes                | No         |
+| [[aTunes]]                | atu         |                                         | Yes                | No         |
+| [[Audacious]]             | aud         |                                         | Yes                | No         |
+| [[billy]]                 | bil         | N/A                                     | No                 | No         |
+| [[Banshee]]               | bsh         |                                         | Yes                | No         |
+| [[Bluemindo]]             | blu         |                                         | Yes                | No         |
+| [[Bowtie]]                | bwt         | N/A                                     | No                 | No         |
+| [[cmus]]                  | cmu         |                                         | Yes                | No         |
+| [[cplay scrobbler]]       | cpl         |                                         | Yes                | No         |
+| [[Cuberok]]               | cub         | N/A                                     | Yes                | No         |
+| [[DeaDBeeF]]              | ddb         | N/A                                     | Yes                | No         |
+| [[Foobar2000]]            | foo         | N/A                                     | Yes                | No         |
+| [[Last.fm player]]        | ass         | N/A                                     | Yes                | No         |
+| [[mpdscribble]]           | mdc         |                                         | Yes                | No         |
+| [[multi-scrobbler]]       | N/A         | @FoxxMD                                 | No                 | No         |
+| [[Pano Scrobbler]]        | N/A         |                                         | No                 | No         |
+| [[Web Scrobbler]]         | N/A         |                                         | No                 | No         |
