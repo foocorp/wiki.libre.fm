@@ -42,5 +42,5 @@ For each client, we'd like to know:
 | [[mpdscribble]]           | mdc         |                                         | Yes                | No         |
 | [[multi-scrobbler]]       | N/A         | @FoxxMD                                 | No                 | No         |
 | [[Pano Scrobbler]]        | N/A         |                                         | No                 | No         |
-| [[RhythmBox]]             | N/A         |                                         | No                 |            |
+| [[RhythmBox]]             | rbx         |                                         | No                 |            |
 | [[Web Scrobbler]]         | N/A         |                                         | No                 | No         |
