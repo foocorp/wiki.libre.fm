@@ -1,6 +1,6 @@
-One line to describe this project.
+Billy is a lightweight audio player for Windows. It supports FLAC, MP3, WAV, and OGG files. It is no longer maintained.
 
-* A link to the website
+* [Website](https://www.sheepfriends.com/index-page=billy.html)
 
 ### Who uses this?
 
