@@ -1,7 +1,7 @@
-One line to describe this project.
+Audacious is an open source audio player for Linux, macOS, and Windows. It can play CDs, digital audio files, and radio streams.
 
-* A link to the website
+* [Website](https://audacious-media-player.org/)
 
 ### Who uses this?
 
-* Add yourself to the list
+* [unseenlarks](https://github.com/unseenlarks)
