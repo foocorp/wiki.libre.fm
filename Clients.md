@@ -41,5 +41,6 @@ For each client, we'd like to know:
 | [[Last.fm player]]        | ass         | N/A                                     | Yes                | No         |
 | [[mpdscribble]]           | mdc         |                                         | Yes                | No         |
 | [[multi-scrobbler]]       | N/A         | @FoxxMD                                 | No                 | No         |
+| [[Simple Scrobbler]]                  | sls         | N/A                               | Yes        | No        |
 | [[Pano Scrobbler]]        | N/A         |                                         | No                 | No         |
 | [[Web Scrobbler]]         | N/A         |                                         | No                 | No         |
