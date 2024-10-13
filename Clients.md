@@ -4,6 +4,8 @@ Please do not make large edits to this page and leave it without the columns it 
 
 -->
 
+See https://github.com/foocorp/documentation/wiki/Contributing-to-the-wiki to find out how to make changes here.
+
 **Please try and keep this list in alphabetical order.**
 
 For each client, we'd like to know:
