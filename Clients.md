@@ -44,6 +44,6 @@ For each client, we'd like to know:
 | [[mpdscribble]]           | mdc         |                                         | Yes                | No         |
 | [[multi-scrobbler]]       | N/A         | @FoxxMD                                 | No                 | No         |
 | [[Simple Scrobbler]]                  | sls         | N/A                               | Yes        | No        |
-| [[Pano Scrobbler]]        | N/A         |                                         | No                 | No         |
+| [[Pano Scrobbler]]        | N/A         | @kawaiiDango                            | No                 | No         |
 | [[RhythmBox]]             | rbx         |                                         | No                 |            |
 | [[Web Scrobbler]]         | N/A         |                                         | No                 | No         |
