@@ -9,3 +9,7 @@ Works nicely with Libre.fm, also very good for [[testing short tracks]].
 * mattl
 * antsyboi
 * Add your username/URL here
+
+### Download
+
+* https://deadbeef.sourceforge.io/download.html
