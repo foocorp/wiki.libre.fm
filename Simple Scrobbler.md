@@ -1,8 +1,6 @@
-Simple and easy to setup phone scrobbler. It supports a large collection of music players.
+Simple and easy to setup mobile mobile phone scrobbler. It supports a large collection of music players. Free and open-source.
 
-Free and open-source, available on f-droid
-
-* https://simple-last-fm-scrobbler.github.io/
+* [Website](https://simple-last-fm-scrobbler.github.io/)
 
 ### Who's using it?
 
