@@ -1,7 +1,8 @@
-One line to describe this project.
+A Music Player Daemon (MPD) client that scrobbles your tracks. Consumes very little CPU and Memory.
 
-* A link to the website
+* [Website](https://www.musicpd.org/clients/mpdscribble/)
 
 ### Who uses this?
 
+* themidnightmaniac
 * Add yourself to the list
