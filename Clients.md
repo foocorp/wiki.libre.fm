@@ -4,6 +4,10 @@ Please do not make large edits to this page and leave it without the columns it 
 
 -->
 
+## New user? 
+
+<center>We recommend [[Web Scrobbler]] for streaming music (Apple Music, Spotify, etc) playing in a web browser. If you have a collection of local music on your computer, we recommend [[DeaDBeef]]</center>
+
 See https://github.com/foocorp/documentation/wiki/Contributing-to-the-wiki to find out how to make changes here.
 
 **Please try and keep this list in alphabetical order.**
