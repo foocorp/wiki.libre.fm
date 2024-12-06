@@ -1,6 +1,6 @@
-One line to describe this project.
+foobar2000 is a freeware audio player for Windows, macOS, iOS and Android.
 
-* A link to the website
+* [Website](https://www.foobar2000.org/)
 
 ### Who uses this?
 

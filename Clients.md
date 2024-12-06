@@ -4,6 +4,18 @@ Please do not make large edits to this page and leave it without the columns it 
 
 -->
 
+## New user? 
+
+
+* We recommend [[Web Scrobbler]] for streaming music (Apple Music, Spotify, etc) playing in a web browser.
+* If you have a collection of local music on your computer, we recommend [[DeaDBeef]]
+
+[![image1-7](https://github.com/user-attachments/assets/335a4d8f-7e6e-4de1-b809-b80d8a6516b1)](#)
+
+---
+
+See https://github.com/foocorp/documentation/wiki/Contributing-to-the-wiki to find out how to make changes here.
+
 **Please try and keep this list in alphabetical order.**
 
 For each client, we'd like to know:
@@ -42,6 +54,7 @@ For each client, we'd like to know:
 | [[mpdscribble]]           | mdc         |                                         | Yes                | No         |
 | [[multi-scrobbler]]       | N/A         | @FoxxMD                                 | No                 | No         |
 | [[Simple Scrobbler]]                  | sls         | N/A                               | Yes        | No        |
-| [[Pano Scrobbler]]        | N/A         |                                         | No                 | No         |
+| [[Strawberry]]            | N/A         | N/A                                     | No                 | No         |
+| [[Pano Scrobbler]]        | N/A         | @kawaiiDango                            | No                 | No         |
 | [[RhythmBox]]             | rbx         |                                         | No                 |            |
 | [[Web Scrobbler]]         | N/A         |                                         | No                 | No         |
