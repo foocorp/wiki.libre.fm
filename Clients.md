@@ -53,8 +53,9 @@ For each client, we'd like to know:
 | [[Last.fm player]]        | ass         | N/A                                     | Yes                | No         |
 | [[mpdscribble]]           | mdc         |                                         | Yes                | No         |
 | [[multi-scrobbler]]       | N/A         | @FoxxMD                                 | No                 | No         |
-| [[Simple Scrobbler]]                  | sls         | N/A                               | Yes        | No        |
-| [[Strawberry]]            | N/A         | N/A                                     | No                 | No         |
 | [[Pano Scrobbler]]        | N/A         | @kawaiiDango                            | No                 | No         |
+| [[Qmmp]]                  | qmm         | N/A                                     | No                 | No         |
 | [[RhythmBox]]             | rbx         |                                         | No                 |            |
+| [[Simple Scrobbler]]      | sls         | N/A                                     | Yes                | No         |
+| [[Strawberry]]            | N/A         | N/A                                     | No                 | No         |
 | [[Web Scrobbler]]         | N/A         |                                         | No                 | No         |
