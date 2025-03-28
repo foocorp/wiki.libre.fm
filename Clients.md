@@ -52,6 +52,7 @@ For each client, we'd like to know:
 | [[Foobar2000]]            | foo         | N/A                                     | Yes                | No         |
 | [[Last.fm player]]        | ass         | N/A                                     | Yes                | No         |
 | [[mpdscribble]]           | mdc         |                                         | Yes                | No         |
+| [[mpris-scrobbler]]       | N/A         | @mariusor                               | Yes                | No         |
 | [[multi-scrobbler]]       | N/A         | @FoxxMD                                 | No                 | No         |
 | [[Pano Scrobbler]]        | N/A         | @kawaiiDango                            | No                 | No         |
 | [[Qmmp]]                  | qmm         | N/A                                     | No                 | No         |
