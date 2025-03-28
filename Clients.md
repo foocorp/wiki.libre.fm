@@ -56,6 +56,7 @@ For each client, we'd like to know:
 | [[multi-scrobbler]]       | N/A         | @FoxxMD                                 | No                 | No         |
 | [[Pano Scrobbler]]        | N/A         | @kawaiiDango                            | No                 | No         |
 | [[Qmmp]]                  | qmm         | N/A                                     | No                 | No         |
+| [[Quod Libet]]            | qlb         | N/A                                     | Yes                | No         |
 | [[RhythmBox]]             | rbx         |                                         | No                 |            |
 | [[Simple Scrobbler]]      | sls         | N/A                                     | Yes                | No         |
 | [[Strawberry]]            | N/A         | N/A                                     | No                 | No         |
