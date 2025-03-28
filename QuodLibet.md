@@ -5,3 +5,4 @@ Quod Libet is an audio player and music library manager for Linux, macOS, and Wi
 ### Who uses this?
 
 * Add yourself to the list
+[6R1MR34P3R](https://github.com/6R1MR34P3R)
