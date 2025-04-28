@@ -60,4 +60,5 @@ For each client, we'd like to know:
 | [[RhythmBox]]             | rbx         |                                         | No                 |            |
 | [[Simple Scrobbler]]      | sls         | N/A                                     | Yes                | No         |
 | [[Strawberry]]            | N/A         | N/A                                     | No                 | No         |
+| [[Turntable]]             | N/A         | @GeopJr                                 | No                 | No         |
 | [[Web Scrobbler]]         | N/A         |                                         | No                 | No         |
