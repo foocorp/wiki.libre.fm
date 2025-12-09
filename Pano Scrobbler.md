@@ -1,4 +1,4 @@
-Pano Scrobbler is a free Android app that supports Android smartphones, TVs, tablets and desktops.
+Pano Scrobbler is a free cross-platform app that supports Windows, Linux and Android devices including smartphones, TVs, tablets and Chromebooks.
 
 * Website: https://github.com/kawaiiDango/pano-scrobbler
 
