@@ -4,4 +4,5 @@ foobar2000 is a freeware audio player for Windows, macOS, iOS and Android.
 
 ### Who uses this?
 
+* [yellowJennifer](https://github.com/yellowJennifer)
 * Add yourself to the list
