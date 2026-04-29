@@ -1,7 +1,7 @@
-One line to describe this project.
+Scrobble plays from multiple sources to multiple clients.
 
-* A link to the website
+* [Github project's site](https://github.com/FoxxMD/multi-scrobbler)
 
 ### Who uses this?
 
-* Add yourself to the list
+* [jekkkk](https://github.com/jekkkk)
