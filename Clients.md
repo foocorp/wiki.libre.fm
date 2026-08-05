@@ -69,6 +69,7 @@ For each client, we'd like to know:
 | [[Qmmp]]                  | qmm         | N/A                                     | No                 | No         |
 | [[Quod Libet]]            | qlb         | N/A                                     | Yes                | No         |
 | [[RhythmBox]]             | rbx         | @jmatthew                               | No                 | No         |
+| [[rmpc]]                  | rbx         | N/a                                     | No                 | No         |
 | [[Simple Scrobbler]]      | sls         | N/A                                     | Yes                | No         |
 | [[Turntable]]             | N/A         | @GeopJr                                 | No                 | No         |
 | [[Web Scrobbler]]         | N/A         |                                         | No                 | No         |
