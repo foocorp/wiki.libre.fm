@@ -57,6 +57,7 @@ Don't update this, update [[Clients]] instead.
 |qmn |QMPDClient                 |http://bitcheese.net/wiki/QMPDClient                                      |Y   |
 |qts |QTScrobbler                |http://qtscrob.sourceforge.net/                                           |Y   |
 |rbx |Rhythmbox                  |http://projects.gnome.org/rhythmbox/                                      |Y   |
+|rmp |rmpc                       |https://github.com/kelvinkellner/rmpcd-librefm                            |Y   |
 |sbd |Songbird                   |http://www.getsongbird.com/                                               |Y   |
 |scb |Scrobbl                    |http://www.last.fm/group/scrobbl                                          |Y   |
 |sfm |shell-fm                   |http://nex.scrapping.cc/shell-fm/                                         |Y   |
