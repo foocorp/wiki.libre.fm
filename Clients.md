@@ -72,4 +72,4 @@ For each client, we'd like to know:
 | [[Simple Scrobbler]]      | sls         | N/A                                     | Yes                | No         |
 | [[Turntable]]             | N/A         | @GeopJr                                 | No                 | No         |
 | [[Web Scrobbler]]         | N/A         |                                         | No                 | No         |
-| [[XeroTunes]]             | xmp         | @ITESaurabh                             | Yes                | No         |
+| [[XeroTunes]]             | xer         | @ITESaurabh                             | Yes                | No         |
